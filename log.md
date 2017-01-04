@@ -6,3 +6,4 @@
 
 **Thoughts:** I struggled with Bootstrap Nav, still have a lot to tackle on Portfolio web page.
 
+**Link:** https://twitter.com/tomas_ante/status/816434648247107584

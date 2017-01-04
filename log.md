@@ -2,7 +2,7 @@
 
 ### Day 1: January 30, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created some basic navigation for Personal Portfolio Webpage on FreeCodeCamp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I struggled with Bootstrap Nav, still have a lot to tackle on Portfolio web page.
 

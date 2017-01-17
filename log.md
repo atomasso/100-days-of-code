@@ -106,7 +106,7 @@
 
 **Today's Progress**: Basic Algorithms Scripting finished.
 
-**Thoughts:** Most of the time spent on Seek and Destroy challenge. Not clear why it will not sork when arguments[i] is used directly, but only when its value is stored in new variable. Posted a question for that and waiting answer. Did the last two algorithms were qu
+**Thoughts:** Most of the time spent on Seek and Destroy challenge. Not clear why it will not work when arguments[i] is used directly, but only when its value is stored in new variable. Posted a question for that and waiting answer. Did the last two algorithms were qu
 value in a separate variable.
 
 **Link:** https://twitter.com/tomas_ante/status/821141821493485569

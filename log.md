@@ -111,7 +111,7 @@ value in a separate variable.
 
 **Link:** https://twitter.com/tomas_ante/status/821141821493485569
 
-### Day 13: January 16, 2017
+### Day 14: January 17, 2017
 
 **Today's Progress**: JSON APIs and Ajax finished.
 

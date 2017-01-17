@@ -56,9 +56,57 @@
 
 ### Day 7: January 9, 2017
 
-**Today's Progress**: Aroung two thirds of Basic JavaScript finished.
+**Today's Progress**: Around two thirds of Basic JavaScript finished.
 
 **Thoughts:** Kinda easy exercises so far, almost no brainer.
 
 **Link:** https://twitter.com/tomas_ante/status/818598155751190529
 
+### Day 8: January 10, 2017
+
+**Today's Progress**: Finished Basic JavaScript.
+
+**Thoughts:** Tasks were understandable and straightforward.
+
+**Link:** https://twitter.com/tomas_ante/status/818989042125668353
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Finished Object Oriented and Functional Programming.
+
+**Thoughts:** Quickly sorted it out.
+
+**Link:** https://twitter.com/tomas_ante/status/819318128039563265
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Finished first 3 Basic Algorithms finished.
+
+**Thoughts:** A bit more demanding.
+
+**Link:** https://twitter.com/tomas_ante/status/819684002999271425
+
+### Day 11: January 14, 2017
+
+**Today's Progress**: Around half of Basic Algorithms Scripting finished.
+
+**Thoughts:** Array and String functions had to be used in every challenge, so I needed to go back to the previous challenges were those functions were introduced to check the usage. 
+
+**Link:** https://twitter.com/tomas_ante/status/820420409577340928
+
+### Day 12: January 15, 2017
+
+**Today's Progress**: Three Algorithms left till end.
+
+**Thoughts:** Got stuck on Seek and Destroy challenge and left it for the other day.
+
+**Link:** https://twitter.com/tomas_ante/status/820795318052786178
+
+### Day 13: January 16, 2017
+
+**Today's Progress**: Basic Algorithms Scripting finished.
+
+**Thoughts:** Most of the time spent on Seek and Destroy challenge. Not clear why it will not sork when arguments[i] is used directly, but only when its value is stored in new variable. Posted a question for that and waiting answer. Did the last two algorithms were qu
+value in a separate variable.
+
+**Link:** https://twitter.com/tomas_ante/status/821141821493485569

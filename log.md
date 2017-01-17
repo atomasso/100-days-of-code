@@ -110,3 +110,11 @@
 value in a separate variable.
 
 **Link:** https://twitter.com/tomas_ante/status/821141821493485569
+
+### Day 13: January 16, 2017
+
+**Today's Progress**: JSON APIs and Ajax finished.
+
+**Thoughts:** The task were copy/paste type, so I forced myself to type in the code and to think about how it works.
+
+**Link:** https://twitter.com/tomas_ante/status/821497940883763200
